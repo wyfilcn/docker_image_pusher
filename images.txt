@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-arm64v8/nginx:stable-perl
+--platform=linux/arm64/v8 nginx:stable-alpine-perl
